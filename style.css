@@ -1,79 +1,71 @@
-*{
-    
-}
+* {}
 
 body {
-  background-color: #a9a9a9; 
-  
-
-  
+    background-color: #a9a9a9;
 }
-.block{
+
+.block {
     margin: 10px;
     position: relative;
     width: 236px;
     border-radius: 10px;
     background-color: #fff;
     float: left;
-    overflow:hidden;
+    overflow: hidden;
     box-shadow: 10px;
-
 }
 
-.mainimg{
+.mainimg {
     width: 236px;
     border-style: none;
     /*border-radius: 10px 10px 0px 0px;*/
 }
 
-.name{
-  font-size: 12px;
-  padding: 10px;
-  
-  border-bottom: 1px solid #808080;
+.name {
+    font-size: 12px;
+    padding: 10px;
+    border-bottom: 1px solid #808080;
+}
+.li{
+    float: left;
+    list-style: none;
+    overflow: hidden;
 
 }
 
-.tag{
-  font-size: 10px;
-  color: #808080;
-  
+
+.tag {
+    font-size: 10px;
+    color: #808080;
 }
 
-.by{
-  font-size: 12px;
-  padding: 10px;
-
-  
-  
+.by {
+    font-size: 12px;
+    padding: 10px;
 }
- .account{
+
+.account {
     width: 30px;
     height: 30px;
-    margin: 0px 10px 0px 0px ;
+    margin: 0px 10px 0px 0px;
     float: left;
     border-radius: 5px;
-    
-  
-}
-h1{
-  font-size: 12px;
-
 }
 
+h1 {
+    font-size: 12px;
+}
 
 h2 {
-  font-size: 7px;
-  line-height: 1pt;
+    font-size: 7px;
+    line-height: 1pt;
     color: #808080;
-
-  float: bottom;
-
+    float: bottom;
 }
 
-p {    
-  font-size: 8px;
-    line-height:20%
+p {
+    font-size: 8px;
+    line-height: 20%
 }
 
 </style>
